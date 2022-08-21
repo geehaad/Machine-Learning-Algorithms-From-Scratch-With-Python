@@ -11,7 +11,7 @@
   Supervised:
   <ul>
     <li>
-  Linear Regression [DONE]🚀
+  Linear Regression [DONE]🐱‍🏍
     <li>
   Logistic Regression
      <li>
@@ -23,7 +23,7 @@
      <li>
   SVM(Linear, Non Linear)
      <li>
-  KNN [DONE] 🚀
+  KNN [DONE] 🐱‍🏍
   </ul>
     <li>
   UnSupervrised
@@ -43,7 +43,7 @@
     <li>
   CNN(Convolutional Neural Network)
     <li>
-  RNN(Recurrent Neural Network) [DONE] 🚀
+  RNN(Recurrent Neural Network) [DONE] 🐱‍🏍
   </ul>
         <li>
   Searching Algorithm
@@ -53,7 +53,7 @@
   DFS
 </ul>
   
-I enjoy watching this series during impleminting the algorithms, it help alot:
+I enjoy watching these series during impleminting the algorithms, it help alot:
 <ul>
   <li> https://www.youtube.com/watch?v=rLOyrWV8gmA
   <li>
@@ -61,7 +61,7 @@ I enjoy watching this series during impleminting the algorithms, it help alot:
   </ul>
   
   <h4>This Repo is still under progress, so stay tuned 🌡️</h4>
-  <h4>Thank you ⚡</h4>
+  <h4>Thank you 🚴‍♀️⚡</h4>
   
   
 <hr>
