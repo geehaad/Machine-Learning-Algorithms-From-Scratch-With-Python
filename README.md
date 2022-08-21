@@ -47,10 +47,12 @@
   </ul>
         <li>
   Searching Algorithm
+  <ul>
   <li>
   BFS
     <li>
   DFS
+  </ul>
 </ul>
   
 I enjoy watching these series during impleminting the algorithms, it help alot:
