@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithms-From-Scratch-With-Python
 
-<img  src='1_Cum-6fJCe7Plh5Twby6oxw.jpeg'>
+<img  src='1_Cum-6fJCe7Plh5Twby6oxw.jpeg' width=300>
 
 
 
