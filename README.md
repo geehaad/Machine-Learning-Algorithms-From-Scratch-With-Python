@@ -62,7 +62,9 @@ I enjoy watching this series during impleminting the algorithms, it help alot:
   
   <h4>This Repo is still under progress, so stay tuned 🌡️</h4>
   <h4>Thank you ⚡</h4>
-
+  
+  
+<hr>
 <footer>
   <p>سُبحانَكَ اللَّهمَّ وبحمدِكَ، أشهدُ أن لا إلَهَ إلَّا أنتَ أستغفرُكَ وأتوبُ إليكَ</p>
 </footer>
