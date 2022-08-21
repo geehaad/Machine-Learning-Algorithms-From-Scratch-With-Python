@@ -60,7 +60,7 @@ I enjoy watching this series during impleminting the algorithms, it help alot:
      https://www.kaggle.com/code/milan400/machine-learning-algorithms-from-scratch
   </ul>
   
-  <h4>This Repo is still under progress, so stay tuned</h4> 🌡️
+  <h4>This Repo is still under progress, so stay tuned 🌡️</h4>
   <h4>Thank you ⚡</h4>
 
 <footer>
